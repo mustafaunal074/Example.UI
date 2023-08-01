@@ -4,7 +4,7 @@ N Katmanlı Mimari yapısında geliştirilmiştir. Basic bir projedir
 
 Kullanılan Teknolojiler:
 
-.NET 5
+.NET Core MVC (.net 5.0 )
 
 Sql Server
 
